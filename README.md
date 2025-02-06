@@ -74,7 +74,7 @@ Once the documentation is generated, you can access it.
 Open the index.html file located in the docs/html directory in your web browser. You can do this by navigating to the directory and opening the file:
 
 ```bash
-cd docs/html
+cd documentation/html
 open index.html   # Or just double-click on the file
 ```
 
