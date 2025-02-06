@@ -1,0 +1,6 @@
+# Ignore build files
+/build/
+/bin/
+
+# Ignore documentation output
+/docs/
